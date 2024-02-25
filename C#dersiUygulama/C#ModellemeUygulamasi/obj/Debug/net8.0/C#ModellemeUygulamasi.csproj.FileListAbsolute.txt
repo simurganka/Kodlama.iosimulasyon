@@ -1,0 +1,14 @@
+C:\Users\NURSIMAAKBAS\Source\Repos\C#dersiUygulama\C#ModellemeUygulamasi\bin\Debug\net8.0\C#ModellemeUygulamasi.exe
+C:\Users\NURSIMAAKBAS\Source\Repos\C#dersiUygulama\C#ModellemeUygulamasi\bin\Debug\net8.0\C#ModellemeUygulamasi.deps.json
+C:\Users\NURSIMAAKBAS\Source\Repos\C#dersiUygulama\C#ModellemeUygulamasi\bin\Debug\net8.0\C#ModellemeUygulamasi.runtimeconfig.json
+C:\Users\NURSIMAAKBAS\Source\Repos\C#dersiUygulama\C#ModellemeUygulamasi\bin\Debug\net8.0\C#ModellemeUygulamasi.dll
+C:\Users\NURSIMAAKBAS\Source\Repos\C#dersiUygulama\C#ModellemeUygulamasi\bin\Debug\net8.0\C#ModellemeUygulamasi.pdb
+C:\Users\NURSIMAAKBAS\Source\Repos\C#dersiUygulama\C#ModellemeUygulamasi\obj\Debug\net8.0\C#ModellemeUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NURSIMAAKBAS\Source\Repos\C#dersiUygulama\C#ModellemeUygulamasi\obj\Debug\net8.0\C#ModellemeUygulamasi.AssemblyInfoInputs.cache
+C:\Users\NURSIMAAKBAS\Source\Repos\C#dersiUygulama\C#ModellemeUygulamasi\obj\Debug\net8.0\C#ModellemeUygulamasi.AssemblyInfo.cs
+C:\Users\NURSIMAAKBAS\Source\Repos\C#dersiUygulama\C#ModellemeUygulamasi\obj\Debug\net8.0\C#ModellemeUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\NURSIMAAKBAS\Source\Repos\C#dersiUygulama\C#ModellemeUygulamasi\obj\Debug\net8.0\C#ModellemeUygulamasi.dll
+C:\Users\NURSIMAAKBAS\Source\Repos\C#dersiUygulama\C#ModellemeUygulamasi\obj\Debug\net8.0\refint\C#ModellemeUygulamasi.dll
+C:\Users\NURSIMAAKBAS\Source\Repos\C#dersiUygulama\C#ModellemeUygulamasi\obj\Debug\net8.0\C#ModellemeUygulamasi.pdb
+C:\Users\NURSIMAAKBAS\Source\Repos\C#dersiUygulama\C#ModellemeUygulamasi\obj\Debug\net8.0\C#ModellemeUygulamasi.genruntimeconfig.cache
+C:\Users\NURSIMAAKBAS\Source\Repos\C#dersiUygulama\C#ModellemeUygulamasi\obj\Debug\net8.0\ref\C#ModellemeUygulamasi.dll
